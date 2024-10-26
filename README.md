@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on GIS projects
+- 🌱 I’m learning more about GIS technologies
+- 👯 I’m interested in collaborating on GIS projects, especially VectorTiles and COG related work
+- 🤔 I’m looking for help with LIFE
+- 💬 Ask me about PARAGLIDING!
+- 📫 How to reach me: here
+- ⚡ Fun fact: I graduated as an environmental engineer... but let’s keep that a secret!
+
 <!--
 **Martenz/Martenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
